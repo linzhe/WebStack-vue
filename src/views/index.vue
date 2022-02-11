@@ -38,6 +38,7 @@
             </ul>
           </li>
           <!-- 关于本站 -->
+          <!--
           <li class="submit-tag">
             <router-link to="/about">
               <i class="linecons-heart"></i>
@@ -45,6 +46,7 @@
               <span class="label label-Primary pull-right hidden-collapsed">♥︎</span>
             </router-link>
           </li>
+          -->
         </ul>
       </div>
     </div>
